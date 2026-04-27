@@ -366,7 +366,7 @@ nav.footer-right-nav {
     }
 
     .interaction-content{
-        position: static;
+        /* position: static; */
         width: 100%;
         text-align: center;
         padding: 20px;
