@@ -9,7 +9,7 @@ section {
 }
 
 section.hero-section {
-    background-image: url(../images/desktop/image-hero.jpg);
+    background-image: url(image-hero.jpg);
     height: 80vh;
     padding-top: 4rem;
 }
